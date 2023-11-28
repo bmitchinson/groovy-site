@@ -1,0 +1,1338 @@
+{
+	"products": [
+		{
+			"id": "gid://shopify/Product/7828487373058",
+			"handle": "groovy-000-street-beanie",
+			"availableForSale": true,
+			"title": "groovy-000 street beanie",
+			"description": "part of the \"000 Core Collection\", this fisherman-style beanie is a classic item that blends with any type of style. *10% of proceeds go to GROOVY Creative Fund to support rising creatives in the Chicagoland area. fit & sizing: -standard, unisex fit-fisherman-one size fits most (not XL heads 😭) features: -ribbed-cuffed hem how to care: -wash inside out on delicate, low temp-air dry-more you wash, shorter longevity of embroidery",
+			"descriptionHtml": "<div>\n<p>part of the \"000 Core Collection\", this fisherman-style beanie is a classic item that blends with any type of style.</p>\n<p><em>*10% of proceeds go to GROOVY Creative Fund to support rising creatives in the Chicagoland area. </em><br><br>fit &amp; sizing:</p>\n<p>-standard, unisex fit<br>-fisherman<br>-one size fits most (not XL heads 😭)</p>\n<p>features:<br></p>\n<p>-ribbed<br>-cuffed hem</p>\n<p>how to care:</p>\n<p>-wash inside out on delicate, low temp<br>-air dry<br>-more you wash, shorter longevity of embroidery</p>\n</div>",
+			"options": [
+				{
+					"id": "gid://shopify/ProductOption/9995267211522",
+					"name": "Size",
+					"values": ["one size"]
+				},
+				{
+					"id": "gid://shopify/ProductOption/9995267244290",
+					"name": "Color",
+					"values": ["black", "army", "Tan"]
+				}
+			],
+			"priceRange": {
+				"maxVariantPrice": { "amount": "34.0", "currencyCode": "USD" },
+				"minVariantPrice": { "amount": "34.0", "currencyCode": "USD" }
+			},
+			"variants": {
+				"pageInfo": { "hasNextPage": false, "hasPreviousPage": false },
+				"edges": [
+					{
+						"node": {
+							"id": "gid://shopify/ProductVariant/43284704264450",
+							"title": "one size / black",
+							"sku": "APQ-4005330S10A1",
+							"availableForSale": true,
+							"requiresShipping": true,
+							"selectedOptions": [
+								{ "name": "Size", "value": "one size" },
+								{ "name": "Color", "value": "black" }
+							],
+							"priceV2": { "amount": "34.0", "currencyCode": "USD" },
+							"compareAtPriceV2": null
+						}
+					},
+					{
+						"node": {
+							"id": "gid://shopify/ProductVariant/43284708622594",
+							"title": "one size / army",
+							"sku": "APQ-4005335S10A1",
+							"availableForSale": true,
+							"requiresShipping": true,
+							"selectedOptions": [
+								{ "name": "Size", "value": "one size" },
+								{ "name": "Color", "value": "army" }
+							],
+							"priceV2": { "amount": "34.0", "currencyCode": "USD" },
+							"compareAtPriceV2": null
+						}
+					},
+					{
+						"node": {
+							"id": "gid://shopify/ProductVariant/43284712161538",
+							"title": "one size / Tan",
+							"sku": "APQ-4005338S10A1",
+							"availableForSale": true,
+							"requiresShipping": true,
+							"selectedOptions": [
+								{ "name": "Size", "value": "one size" },
+								{ "name": "Color", "value": "Tan" }
+							],
+							"priceV2": { "amount": "34.0", "currencyCode": "USD" },
+							"compareAtPriceV2": null
+						}
+					}
+				]
+			},
+			"images": {
+				"pageInfo": { "hasNextPage": false, "hasPreviousPage": false },
+				"edges": [
+					{
+						"node": {
+							"originalSrc": "https://cdn.shopify.com/s/files/1/0664/7699/8914/products/IMG_0385.jpg?v=1682151844",
+							"altText": null,
+							"width": 667,
+							"height": 888
+						}
+					},
+					{
+						"node": {
+							"originalSrc": "https://cdn.shopify.com/s/files/1/0664/7699/8914/products/IMG_0391.jpg?v=1682151909",
+							"altText": null,
+							"width": 720,
+							"height": 959
+						}
+					},
+					{
+						"node": {
+							"originalSrc": "https://cdn.shopify.com/s/files/1/0664/7699/8914/products/IMG_0390.jpg?v=1682151909",
+							"altText": null,
+							"width": 540,
+							"height": 719
+						}
+					}
+				]
+			}
+		},
+		{
+			"id": "gid://shopify/Product/7827006292226",
+			"handle": "groovy-001-original-heavyweight-oversized-t-shirt",
+			"availableForSale": true,
+			"title": "groovy-001 \"OG\" heavyweight oversized tee",
+			"description": "designed by GROOVY BASEMENT®'s artist team, \"OG\" piece captures the liveliness of a groove that can be found internally. this groove, while internal, can be expressed boldly, as it is printed largely and boldly in the back. female model 5'4\" wearing XL, male model 5'6\" wearing M *10% of proceeds go to GROOVY Creative Fund to support rising creatives in the Chicagoland area. fit & sizing -men's sizing -heavy duty, thicc & comforting -oversized -thick neck ribbing features: -100% USA cotton (charcoal grey: 50% USA cotton & 50% polyester) -7.5 oz 16 singles -3.5% lycra mock neck ribbing -heavy knitting how to care: -wash inside out on delicate, cold temp -air dry recommended",
+			"descriptionHtml": "<p><span>designed by GROOVY BASEMENT®'s artist team, \"OG\" piece captures the liveliness of a groove that can be found internally. this groove, while internal, can be expressed boldly, as it is printed largely and boldly in the back.</span></p>\n<p><em>female model 5'4\" wearing XL, male model 5'6\" wearing M</em></p>\n<p><span><em>*10% of proceeds go to GROOVY Creative Fund to support rising creatives in the Chicagoland area.</em></span></p>\n<p><strong>fit &amp; sizing <br></strong><span>-men's sizing <br>-heavy duty, thicc &amp; comforting <br>-oversized <br>-thick neck ribbing </span></p>\n<p><span><strong>features</strong>: <br>-100% USA cotton (charcoal grey: 50% USA cotton &amp; 50% polyester) <br>-7.5 oz 16 singles <br>-3.5% lycra mock neck ribbing <br>-heavy knitting </span></p>\n<p><span><strong>how to care:</strong> <br>-wash inside out on delicate, cold temp <br>-air dry recommended</span></p>",
+			"options": [
+				{
+					"id": "gid://shopify/ProductOption/9993379053826",
+					"name": "Size",
+					"values": ["s", "m", "l", "xl", "xxl"]
+				},
+				{
+					"id": "gid://shopify/ProductOption/9993379086594",
+					"name": "Color",
+					"values": ["black", "charcoal grey heather"]
+				}
+			],
+			"priceRange": {
+				"maxVariantPrice": { "amount": "44.0", "currencyCode": "USD" },
+				"minVariantPrice": { "amount": "42.0", "currencyCode": "USD" }
+			},
+			"variants": {
+				"pageInfo": { "hasNextPage": false, "hasPreviousPage": false },
+				"edges": [
+					{
+						"node": {
+							"id": "gid://shopify/ProductVariant/43281394073858",
+							"title": "s / black",
+							"sku": "APQ-4005278S6A1",
+							"availableForSale": true,
+							"requiresShipping": true,
+							"selectedOptions": [
+								{ "name": "Size", "value": "s" },
+								{ "name": "Color", "value": "black" }
+							],
+							"priceV2": { "amount": "42.0", "currencyCode": "USD" },
+							"compareAtPriceV2": null
+						}
+					},
+					{
+						"node": {
+							"id": "gid://shopify/ProductVariant/43281374085378",
+							"title": "m / charcoal grey heather",
+							"sku": "APQ-4005276S7A1",
+							"availableForSale": true,
+							"requiresShipping": true,
+							"selectedOptions": [
+								{ "name": "Size", "value": "m" },
+								{ "name": "Color", "value": "charcoal grey heather" }
+							],
+							"priceV2": { "amount": "42.0", "currencyCode": "USD" },
+							"compareAtPriceV2": null
+						}
+					},
+					{
+						"node": {
+							"id": "gid://shopify/ProductVariant/43281394106626",
+							"title": "m / black",
+							"sku": "APQ-4005278S7A1",
+							"availableForSale": true,
+							"requiresShipping": true,
+							"selectedOptions": [
+								{ "name": "Size", "value": "m" },
+								{ "name": "Color", "value": "black" }
+							],
+							"priceV2": { "amount": "42.0", "currencyCode": "USD" },
+							"compareAtPriceV2": null
+						}
+					},
+					{
+						"node": {
+							"id": "gid://shopify/ProductVariant/43281374118146",
+							"title": "l / charcoal grey heather",
+							"sku": "APQ-4005276S8A1",
+							"availableForSale": true,
+							"requiresShipping": true,
+							"selectedOptions": [
+								{ "name": "Size", "value": "l" },
+								{ "name": "Color", "value": "charcoal grey heather" }
+							],
+							"priceV2": { "amount": "42.0", "currencyCode": "USD" },
+							"compareAtPriceV2": null
+						}
+					},
+					{
+						"node": {
+							"id": "gid://shopify/ProductVariant/43281394139394",
+							"title": "l / black",
+							"sku": "APQ-4005278S8A1",
+							"availableForSale": true,
+							"requiresShipping": true,
+							"selectedOptions": [
+								{ "name": "Size", "value": "l" },
+								{ "name": "Color", "value": "black" }
+							],
+							"priceV2": { "amount": "42.0", "currencyCode": "USD" },
+							"compareAtPriceV2": null
+						}
+					},
+					{
+						"node": {
+							"id": "gid://shopify/ProductVariant/43281374150914",
+							"title": "xl / charcoal grey heather",
+							"sku": "APQ-4005276S1A1",
+							"availableForSale": true,
+							"requiresShipping": true,
+							"selectedOptions": [
+								{ "name": "Size", "value": "xl" },
+								{ "name": "Color", "value": "charcoal grey heather" }
+							],
+							"priceV2": { "amount": "42.0", "currencyCode": "USD" },
+							"compareAtPriceV2": null
+						}
+					},
+					{
+						"node": {
+							"id": "gid://shopify/ProductVariant/43281394172162",
+							"title": "xl / black",
+							"sku": "APQ-4005278S1A1",
+							"availableForSale": true,
+							"requiresShipping": true,
+							"selectedOptions": [
+								{ "name": "Size", "value": "xl" },
+								{ "name": "Color", "value": "black" }
+							],
+							"priceV2": { "amount": "42.0", "currencyCode": "USD" },
+							"compareAtPriceV2": null
+						}
+					},
+					{
+						"node": {
+							"id": "gid://shopify/ProductVariant/43281374183682",
+							"title": "xxl / charcoal grey heather",
+							"sku": "APQ-4005276S2A1",
+							"availableForSale": true,
+							"requiresShipping": true,
+							"selectedOptions": [
+								{ "name": "Size", "value": "xxl" },
+								{ "name": "Color", "value": "charcoal grey heather" }
+							],
+							"priceV2": { "amount": "44.0", "currencyCode": "USD" },
+							"compareAtPriceV2": null
+						}
+					},
+					{
+						"node": {
+							"id": "gid://shopify/ProductVariant/43281394204930",
+							"title": "xxl / black",
+							"sku": "APQ-4005278S2A1",
+							"availableForSale": true,
+							"requiresShipping": true,
+							"selectedOptions": [
+								{ "name": "Size", "value": "xxl" },
+								{ "name": "Color", "value": "black" }
+							],
+							"priceV2": { "amount": "44.0", "currencyCode": "USD" },
+							"compareAtPriceV2": null
+						}
+					}
+				]
+			},
+			"images": {
+				"pageInfo": { "hasNextPage": false, "hasPreviousPage": false },
+				"edges": [
+					{
+						"node": {
+							"originalSrc": "https://cdn.shopify.com/s/files/1/0664/7699/8914/products/groovy001originalteeblackfront.jpg?v=1682149544",
+							"altText": null,
+							"width": 810,
+							"height": 1080
+						}
+					},
+					{
+						"node": {
+							"originalSrc": "https://cdn.shopify.com/s/files/1/0664/7699/8914/products/groovy001originalteecharcoalstonefront_JPG.jpg?v=1682149544",
+							"altText": null,
+							"width": 729,
+							"height": 973
+						}
+					},
+					{
+						"node": {
+							"originalSrc": "https://cdn.shopify.com/s/files/1/0664/7699/8914/products/IMG_9950.jpg?v=1682152467",
+							"altText": null,
+							"width": 539,
+							"height": 719
+						}
+					},
+					{
+						"node": {
+							"originalSrc": "https://cdn.shopify.com/s/files/1/0664/7699/8914/products/IMG_9963.jpg?v=1682152498",
+							"altText": null,
+							"width": 540,
+							"height": 719
+						}
+					},
+					{
+						"node": {
+							"originalSrc": "https://cdn.shopify.com/s/files/1/0664/7699/8914/products/IMG_9955.jpg?v=1682152498",
+							"altText": null,
+							"width": 539,
+							"height": 719
+						}
+					},
+					{
+						"node": {
+							"originalSrc": "https://cdn.shopify.com/s/files/1/0664/7699/8914/products/IMG_0138.jpg?v=1682152529",
+							"altText": null,
+							"width": 719,
+							"height": 958
+						}
+					},
+					{
+						"node": {
+							"originalSrc": "https://cdn.shopify.com/s/files/1/0664/7699/8914/products/IMG_0141.jpg?v=1682152544",
+							"altText": null,
+							"width": 539,
+							"height": 719
+						}
+					}
+				]
+			}
+		},
+		{
+			"id": "gid://shopify/Product/7828387758338",
+			"handle": "groovy-003-together-heavyweight-baggy-hoodie",
+			"availableForSale": true,
+			"title": "groovy-003 \"TOGETHER\" super-heavyweight oversized hoodie",
+			"description": "designed by GROOVY BASEMENT®'s artist team, \"TOGETHER\" piece is inspired by the friendship of two of our members, hand-drawn the moment that's been captured as they grooved at a music festival together. this design is printed on a soothing, thicc pastel hoodie model 5'6\" wearing M *10% of proceeds go to GROOVY Creative Fund to support rising creatives in the Chicagoland area. fit & sizing: -men's sizing-oversized fit features: -10 oz (330 gm) 70% cotton/30% polyester blend 3-end fleece-handcrafted with premium ring spun cotton-created with a 3-end fleece for comfort-premium heavyweight garment-heavy gauge round drawcord-nickel eyelets how to care: -wash inside out, cold temp-air dry recommended",
+			"descriptionHtml": "<p><span>designed by GROOVY BASEMENT®'s artist team, \"TOGETHER\" piece is inspired by the friendship of two of our members, hand-drawn the moment that's been captured as they grooved at a music festival together. </span></p>\n<p><span>this design is printed on a soothing, thicc pastel hoodie </span></p>\n<p><em>model 5'6\" wearing M</em></p>\n<p><span><em>*10% of proceeds go to GROOVY Creative Fund to support rising creatives in the Chicagoland area.</em></span></p>\n<p><strong>fit &amp; sizing:</strong></p>\n<p><strong><span style=\"text-decoration: underline;\" data-mce-style=\"text-decoration: underline;\">-men's sizing</span></strong><br>-oversized fit<br><img data-mce-fragment=\"1\" src=\"https://cdn.shopify.com/s/files/1/0664/7699/8914/files/ScreenShot2022-11-28at8.01.51PM_480x480.png?v=1669687359\" alt=\"\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0664/7699/8914/files/ScreenShot2022-11-28at8.01.51PM_480x480.png?v=1669687359\"><br></p>\n<p><strong>features:</strong></p>\n<p>-10 oz (330 gm) 70% cotton/30% polyester blend 3-end fleece<br>-handcrafted with premium ring spun cotton<br>-created with a 3-end fleece for comfort<br>-premium heavyweight garment<br>-heavy gauge round drawcord<br>-nickel eyelets</p>\n<p><strong>how to care:</strong></p>\n<p>-wash inside out, cold temp<br>-air dry recommended</p>",
+			"options": [
+				{
+					"id": "gid://shopify/ProductOption/9995150655746",
+					"name": "Size",
+					"values": ["s", "m", "l", "xl", "xxl"]
+				},
+				{
+					"id": "gid://shopify/ProductOption/9995150688514",
+					"name": "Color",
+					"values": ["Lavender", "Bone"]
+				}
+			],
+			"priceRange": {
+				"maxVariantPrice": { "amount": "70.0", "currencyCode": "USD" },
+				"minVariantPrice": { "amount": "67.0", "currencyCode": "USD" }
+			},
+			"variants": {
+				"pageInfo": { "hasNextPage": false, "hasPreviousPage": false },
+				"edges": [
+					{
+						"node": {
+							"id": "gid://shopify/ProductVariant/43284476756226",
+							"title": "s / Lavender",
+							"sku": "APQ-4005304S6A1",
+							"availableForSale": true,
+							"requiresShipping": true,
+							"selectedOptions": [
+								{ "name": "Size", "value": "s" },
+								{ "name": "Color", "value": "Lavender" }
+							],
+							"priceV2": { "amount": "68.0", "currencyCode": "USD" },
+							"compareAtPriceV2": null
+						}
+					},
+					{
+						"node": {
+							"id": "gid://shopify/ProductVariant/43284485374210",
+							"title": "s / Bone",
+							"sku": "APQ-4005295S6A1",
+							"availableForSale": true,
+							"requiresShipping": true,
+							"selectedOptions": [
+								{ "name": "Size", "value": "s" },
+								{ "name": "Color", "value": "Bone" }
+							],
+							"priceV2": { "amount": "68.0", "currencyCode": "USD" },
+							"compareAtPriceV2": null
+						}
+					},
+					{
+						"node": {
+							"id": "gid://shopify/ProductVariant/43284476788994",
+							"title": "m / Lavender",
+							"sku": "APQ-4005304S7A1",
+							"availableForSale": true,
+							"requiresShipping": true,
+							"selectedOptions": [
+								{ "name": "Size", "value": "m" },
+								{ "name": "Color", "value": "Lavender" }
+							],
+							"priceV2": { "amount": "68.0", "currencyCode": "USD" },
+							"compareAtPriceV2": null
+						}
+					},
+					{
+						"node": {
+							"id": "gid://shopify/ProductVariant/43284485406978",
+							"title": "m / Bone",
+							"sku": "APQ-4005295S7A1",
+							"availableForSale": true,
+							"requiresShipping": true,
+							"selectedOptions": [
+								{ "name": "Size", "value": "m" },
+								{ "name": "Color", "value": "Bone" }
+							],
+							"priceV2": { "amount": "68.0", "currencyCode": "USD" },
+							"compareAtPriceV2": null
+						}
+					},
+					{
+						"node": {
+							"id": "gid://shopify/ProductVariant/43284476821762",
+							"title": "l / Lavender",
+							"sku": "APQ-4005304S8A1",
+							"availableForSale": true,
+							"requiresShipping": true,
+							"selectedOptions": [
+								{ "name": "Size", "value": "l" },
+								{ "name": "Color", "value": "Lavender" }
+							],
+							"priceV2": { "amount": "68.0", "currencyCode": "USD" },
+							"compareAtPriceV2": null
+						}
+					},
+					{
+						"node": {
+							"id": "gid://shopify/ProductVariant/43284485439746",
+							"title": "l / Bone",
+							"sku": "APQ-4005295S8A1",
+							"availableForSale": true,
+							"requiresShipping": true,
+							"selectedOptions": [
+								{ "name": "Size", "value": "l" },
+								{ "name": "Color", "value": "Bone" }
+							],
+							"priceV2": { "amount": "68.0", "currencyCode": "USD" },
+							"compareAtPriceV2": null
+						}
+					},
+					{
+						"node": {
+							"id": "gid://shopify/ProductVariant/43284476854530",
+							"title": "xl / Lavender",
+							"sku": "APQ-4005304S1A1",
+							"availableForSale": true,
+							"requiresShipping": true,
+							"selectedOptions": [
+								{ "name": "Size", "value": "xl" },
+								{ "name": "Color", "value": "Lavender" }
+							],
+							"priceV2": { "amount": "68.0", "currencyCode": "USD" },
+							"compareAtPriceV2": null
+						}
+					},
+					{
+						"node": {
+							"id": "gid://shopify/ProductVariant/43284485472514",
+							"title": "xl / Bone",
+							"sku": "APQ-4005295S1A1",
+							"availableForSale": true,
+							"requiresShipping": true,
+							"selectedOptions": [
+								{ "name": "Size", "value": "xl" },
+								{ "name": "Color", "value": "Bone" }
+							],
+							"priceV2": { "amount": "68.0", "currencyCode": "USD" },
+							"compareAtPriceV2": null
+						}
+					},
+					{
+						"node": {
+							"id": "gid://shopify/ProductVariant/43284476887298",
+							"title": "xxl / Lavender",
+							"sku": "APQ-4005304S2A1",
+							"availableForSale": true,
+							"requiresShipping": true,
+							"selectedOptions": [
+								{ "name": "Size", "value": "xxl" },
+								{ "name": "Color", "value": "Lavender" }
+							],
+							"priceV2": { "amount": "70.0", "currencyCode": "USD" },
+							"compareAtPriceV2": null
+						}
+					},
+					{
+						"node": {
+							"id": "gid://shopify/ProductVariant/43284485505282",
+							"title": "xxl / Bone",
+							"sku": "APQ-4005295S2A1",
+							"availableForSale": true,
+							"requiresShipping": true,
+							"selectedOptions": [
+								{ "name": "Size", "value": "xxl" },
+								{ "name": "Color", "value": "Bone" }
+							],
+							"priceV2": { "amount": "67.0", "currencyCode": "USD" },
+							"compareAtPriceV2": null
+						}
+					}
+				]
+			},
+			"images": {
+				"pageInfo": { "hasNextPage": false, "hasPreviousPage": false },
+				"edges": [
+					{
+						"node": {
+							"originalSrc": "https://cdn.shopify.com/s/files/1/0664/7699/8914/products/groovy003togetherhoodielavenderfrontt.jpg?v=1682149435",
+							"altText": null,
+							"width": 810,
+							"height": 1080
+						}
+					},
+					{
+						"node": {
+							"originalSrc": "https://cdn.shopify.com/s/files/1/0664/7699/8914/products/groovy003togetherhoodielavenderback.jpg?v=1682149435",
+							"altText": null,
+							"width": 810,
+							"height": 1080
+						}
+					},
+					{
+						"node": {
+							"originalSrc": "https://cdn.shopify.com/s/files/1/0664/7699/8914/products/groovy003togetherhoodiebonefront.jpg?v=1682149435",
+							"altText": null,
+							"width": 810,
+							"height": 1080
+						}
+					},
+					{
+						"node": {
+							"originalSrc": "https://cdn.shopify.com/s/files/1/0664/7699/8914/products/groovy003togetherhoodieboneback.jpg?v=1682149435",
+							"altText": null,
+							"width": 810,
+							"height": 1080
+						}
+					},
+					{
+						"node": {
+							"originalSrc": "https://cdn.shopify.com/s/files/1/0664/7699/8914/products/IMG_0053.jpg?v=1682152615",
+							"altText": null,
+							"width": 608,
+							"height": 810
+						}
+					},
+					{
+						"node": {
+							"originalSrc": "https://cdn.shopify.com/s/files/1/0664/7699/8914/products/IMG_0001.jpg?v=1682152638",
+							"altText": null,
+							"width": 540,
+							"height": 719
+						}
+					},
+					{
+						"node": {
+							"originalSrc": "https://cdn.shopify.com/s/files/1/0664/7699/8914/products/IMG_0302.jpg?v=1682152675",
+							"altText": null,
+							"width": 810,
+							"height": 1080
+						}
+					},
+					{
+						"node": {
+							"originalSrc": "https://cdn.shopify.com/s/files/1/0664/7699/8914/products/IMG_0293.jpg?v=1682152692",
+							"altText": null,
+							"width": 810,
+							"height": 1080
+						}
+					}
+				]
+			}
+		},
+		{
+			"id": "gid://shopify/Product/7826757812482",
+			"handle": "groovy-004-heavyweight-faded-sweatshirt",
+			"availableForSale": true,
+			"title": "groovy-004 \"G-STEP\" faded crewneck",
+			"description": "designed by GROOVY BASEMENT®'s artist team, \"G-STEP\" piece captures smoothness and confidence that one can find as they become more in tune with their inner selves. design is printed on a soothing heavyweight sweater that's been pigment-dyed with vintage character female model 5'6\" wearing L sandstone, male model 6'2\" wearing XXL pigment black *10% of proceeds go to GROOVY Creative Fund to support rising creatives in the Chicagoland area. ordering a size up is always recommended 😌 fit & sizing: -baggy unisex fit features:-9oz (300 gm) 80% cotton/20% polyester blend-100% cotton 30 singles face yarn split stitch double needle sewing on all seams-twill neck tape-1 x 1 ribbing at neck, cuffs and waistband how to care: -wash inside out on delicate, cold temp-air dry recommended",
+			"descriptionHtml": "<p><span>designed by GROOVY BASEMENT®'s artist team, \"G-STEP\" piece captures smoothness and confidence that one can find as they become more in tune with their inner selves. design is printed on a soothing heavyweight sweater that's been pigment-dyed with vintage character </span></p>\n<p><em>female model 5'6\" wearing L sandstone, male model 6'2\" wearing XXL pigment black</em></p>\n<p><span><em>*10% of proceeds go to GROOVY Creative Fund to support rising creatives in the Chicagoland area.</em></span></p>\n<p>ordering a size up is always recommended 😌</p>\n<p><strong>fit &amp; sizing:</strong></p>\n<p>-baggy unisex fit <br><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0664/7699/8914/files/ScreenShot2022-11-28at8.16.50PM_480x480.png?v=1669688241\" data-mce-fragment=\"1\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0664/7699/8914/files/ScreenShot2022-11-28at8.16.50PM_480x480.png?v=1669688241\"><br></p>\n<p><strong>features:</strong><br>-9oz (300 gm) 80% cotton/20% polyester blend<br>-100% cotton 30 singles face yarn split stitch double needle sewing on all seams<br>-twill neck tape<br>-1 x 1 ribbing at neck, cuffs and waistband</p>\n<p><strong>how to care:</strong></p>\n<p>-wash inside out on delicate, cold temp<br>-air dry recommended<br></p>",
+			"options": [
+				{
+					"id": "gid://shopify/ProductOption/9992994783490",
+					"name": "Size",
+					"values": ["s", "m", "l", "xl", "xxl"]
+				},
+				{
+					"id": "gid://shopify/ProductOption/9992994816258",
+					"name": "Color",
+					"values": ["Pigment Sandstone", "Pigment Black"]
+				}
+			],
+			"priceRange": {
+				"maxVariantPrice": { "amount": "70.0", "currencyCode": "USD" },
+				"minVariantPrice": { "amount": "68.0", "currencyCode": "USD" }
+			},
+			"variants": {
+				"pageInfo": { "hasNextPage": false, "hasPreviousPage": false },
+				"edges": [
+					{
+						"node": {
+							"id": "gid://shopify/ProductVariant/43280713089282",
+							"title": "s / Pigment Sandstone",
+							"sku": "APQ-4005267S6A1",
+							"availableForSale": true,
+							"requiresShipping": true,
+							"selectedOptions": [
+								{ "name": "Size", "value": "s" },
+								{ "name": "Color", "value": "Pigment Sandstone" }
+							],
+							"priceV2": { "amount": "68.0", "currencyCode": "USD" },
+							"compareAtPriceV2": null
+						}
+					},
+					{
+						"node": {
+							"id": "gid://shopify/ProductVariant/43281220698370",
+							"title": "s / Pigment Black",
+							"sku": "APQ-4005263S6A1",
+							"availableForSale": true,
+							"requiresShipping": true,
+							"selectedOptions": [
+								{ "name": "Size", "value": "s" },
+								{ "name": "Color", "value": "Pigment Black" }
+							],
+							"priceV2": { "amount": "68.0", "currencyCode": "USD" },
+							"compareAtPriceV2": null
+						}
+					},
+					{
+						"node": {
+							"id": "gid://shopify/ProductVariant/43280713122050",
+							"title": "m / Pigment Sandstone",
+							"sku": "APQ-4005267S7A1",
+							"availableForSale": true,
+							"requiresShipping": true,
+							"selectedOptions": [
+								{ "name": "Size", "value": "m" },
+								{ "name": "Color", "value": "Pigment Sandstone" }
+							],
+							"priceV2": { "amount": "68.0", "currencyCode": "USD" },
+							"compareAtPriceV2": null
+						}
+					},
+					{
+						"node": {
+							"id": "gid://shopify/ProductVariant/43281220731138",
+							"title": "m / Pigment Black",
+							"sku": "APQ-4005263S7A1",
+							"availableForSale": true,
+							"requiresShipping": true,
+							"selectedOptions": [
+								{ "name": "Size", "value": "m" },
+								{ "name": "Color", "value": "Pigment Black" }
+							],
+							"priceV2": { "amount": "68.0", "currencyCode": "USD" },
+							"compareAtPriceV2": null
+						}
+					},
+					{
+						"node": {
+							"id": "gid://shopify/ProductVariant/43280713154818",
+							"title": "l / Pigment Sandstone",
+							"sku": "APQ-4005267S8A1",
+							"availableForSale": true,
+							"requiresShipping": true,
+							"selectedOptions": [
+								{ "name": "Size", "value": "l" },
+								{ "name": "Color", "value": "Pigment Sandstone" }
+							],
+							"priceV2": { "amount": "68.0", "currencyCode": "USD" },
+							"compareAtPriceV2": null
+						}
+					},
+					{
+						"node": {
+							"id": "gid://shopify/ProductVariant/43281220763906",
+							"title": "l / Pigment Black",
+							"sku": "APQ-4005263S8A1",
+							"availableForSale": true,
+							"requiresShipping": true,
+							"selectedOptions": [
+								{ "name": "Size", "value": "l" },
+								{ "name": "Color", "value": "Pigment Black" }
+							],
+							"priceV2": { "amount": "68.0", "currencyCode": "USD" },
+							"compareAtPriceV2": null
+						}
+					},
+					{
+						"node": {
+							"id": "gid://shopify/ProductVariant/43280713187586",
+							"title": "xl / Pigment Sandstone",
+							"sku": "APQ-4005267S1A1",
+							"availableForSale": true,
+							"requiresShipping": true,
+							"selectedOptions": [
+								{ "name": "Size", "value": "xl" },
+								{ "name": "Color", "value": "Pigment Sandstone" }
+							],
+							"priceV2": { "amount": "68.0", "currencyCode": "USD" },
+							"compareAtPriceV2": null
+						}
+					},
+					{
+						"node": {
+							"id": "gid://shopify/ProductVariant/43281220796674",
+							"title": "xl / Pigment Black",
+							"sku": "APQ-4005263S1A1",
+							"availableForSale": true,
+							"requiresShipping": true,
+							"selectedOptions": [
+								{ "name": "Size", "value": "xl" },
+								{ "name": "Color", "value": "Pigment Black" }
+							],
+							"priceV2": { "amount": "68.0", "currencyCode": "USD" },
+							"compareAtPriceV2": null
+						}
+					},
+					{
+						"node": {
+							"id": "gid://shopify/ProductVariant/43280713220354",
+							"title": "xxl / Pigment Sandstone",
+							"sku": "APQ-4005267S2A1",
+							"availableForSale": true,
+							"requiresShipping": true,
+							"selectedOptions": [
+								{ "name": "Size", "value": "xxl" },
+								{ "name": "Color", "value": "Pigment Sandstone" }
+							],
+							"priceV2": { "amount": "70.0", "currencyCode": "USD" },
+							"compareAtPriceV2": null
+						}
+					},
+					{
+						"node": {
+							"id": "gid://shopify/ProductVariant/43281220829442",
+							"title": "xxl / Pigment Black",
+							"sku": "APQ-4005263S2A1",
+							"availableForSale": true,
+							"requiresShipping": true,
+							"selectedOptions": [
+								{ "name": "Size", "value": "xxl" },
+								{ "name": "Color", "value": "Pigment Black" }
+							],
+							"priceV2": { "amount": "70.0", "currencyCode": "USD" },
+							"compareAtPriceV2": null
+						}
+					}
+				]
+			},
+			"images": {
+				"pageInfo": { "hasNextPage": false, "hasPreviousPage": false },
+				"edges": [
+					{
+						"node": {
+							"originalSrc": "https://cdn.shopify.com/s/files/1/0664/7699/8914/products/groovy004gstepcrewneckpigmentblackfront.jpg?v=1685037375",
+							"altText": null,
+							"width": 809,
+							"height": 1080
+						}
+					},
+					{
+						"node": {
+							"originalSrc": "https://cdn.shopify.com/s/files/1/0664/7699/8914/products/groovy004gstepcrewneckpigmentblackback.jpg?v=1685037375",
+							"altText": null,
+							"width": 810,
+							"height": 1080
+						}
+					},
+					{
+						"node": {
+							"originalSrc": "https://cdn.shopify.com/s/files/1/0664/7699/8914/products/grooovy004gstepcrewnecksandstonefront.jpg?v=1685037375",
+							"altText": null,
+							"width": 810,
+							"height": 1080
+						}
+					},
+					{
+						"node": {
+							"originalSrc": "https://cdn.shopify.com/s/files/1/0664/7699/8914/products/IMG_0014.jpg?v=1682153142",
+							"altText": null,
+							"width": 540,
+							"height": 719
+						}
+					},
+					{
+						"node": {
+							"originalSrc": "https://cdn.shopify.com/s/files/1/0664/7699/8914/products/IMG_0011.jpg?v=1682153158",
+							"altText": null,
+							"width": 539,
+							"height": 719
+						}
+					},
+					{
+						"node": {
+							"originalSrc": "https://cdn.shopify.com/s/files/1/0664/7699/8914/products/IMG_0308.jpg?v=1682153231",
+							"altText": null,
+							"width": 539,
+							"height": 720
+						}
+					}
+				]
+			}
+		},
+		{
+			"id": "gid://shopify/Product/7828423803138",
+			"handle": "limited-002-idgaf-premium-heavyweight-faded-hoodie",
+			"availableForSale": true,
+			"title": "limited-002 \"IDGAF\" premium faded hoodie",
+			"description": "part of the \"LIMITED Collection\", \"IDGAF\" piece is inspired by the ability to claim internal space, block out any hate and distraction one may experience in life. sometimes, ignorance is bliss. this allows us to channel our creative energy into things that are more fulfilling. this design is embroidered on a soothing heavyweight pastel hoodie that's been pigment-dyed with vintage character models 5'6\" wearing XL *10% of proceeds go to GROOVY Creative Fund to support rising creatives in the Chicagoland area. fit & sizing: -unisex-slightly oversized features: -9oz (300 gm) 80% cotton/20% polyester blend-100% cotton 30 singles face yarn split stitch double needle sewing on all seams-1 x 1 ribbing at cuffs and waistband-sewn eyelets how to care: -wash inside out on delicate, cold temp-air dry recommended",
+			"descriptionHtml": "<p><span>part of the \"LIMITED Collection\", \"IDGAF\" piece is inspired by the ability to claim internal space, block out any hate and distraction one may experience in life. sometimes, ignorance is bliss. this allows us to channel our creative energy into things that are more fulfilling. <br>this design is embroidered on a soothing heavyweight pastel hoodie that's been pigment-dyed with vintage character<br></span></p>\n<p><span><em>models 5'6\" wearing XL </em><br></span></p>\n<p><span><em>*10% of proceeds go to GROOVY Creative Fund to support rising creatives in the Chicagoland area.</em></span></p>\n<p><strong>fit &amp; sizing:</strong></p>\n<p>-unisex<br>-slightly oversized<br><img data-mce-fragment=\"1\" src=\"https://cdn.shopify.com/s/files/1/0664/7699/8914/files/ScreenShot2022-11-28at8.28.12PM_480x480.png?v=1669688905\" alt=\"\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0664/7699/8914/files/ScreenShot2022-11-28at8.28.12PM_480x480.png?v=1669688905\"><br></p>\n<p><strong>features:</strong></p>\n<p>-9oz (300 gm) 80% cotton/20% polyester blend<br>-100% cotton 30 singles face yarn split stitch double needle sewing on all seams<br>-1 x 1 ribbing at cuffs and waistband<br>-sewn eyelets</p>\n<p><strong>how to care:</strong></p>\n<p>-wash inside out on delicate, cold temp<br>-air dry recommended</p>",
+			"options": [
+				{
+					"id": "gid://shopify/ProductOption/9995192828162",
+					"name": "Size",
+					"values": ["s", "m", "l", "xl", "xxl"]
+				},
+				{
+					"id": "gid://shopify/ProductOption/9995192860930",
+					"name": "Color",
+					"values": ["Pigment Dusty Pink", "Pigment Alpine Green"]
+				}
+			],
+			"priceRange": {
+				"maxVariantPrice": { "amount": "77.0", "currencyCode": "USD" },
+				"minVariantPrice": { "amount": "75.0", "currencyCode": "USD" }
+			},
+			"variants": {
+				"pageInfo": { "hasNextPage": false, "hasPreviousPage": false },
+				"edges": [
+					{
+						"node": {
+							"id": "gid://shopify/ProductVariant/43284575944962",
+							"title": "s / Pigment Dusty Pink",
+							"sku": "APQ-3850272S6A1",
+							"availableForSale": true,
+							"requiresShipping": true,
+							"selectedOptions": [
+								{ "name": "Size", "value": "s" },
+								{ "name": "Color", "value": "Pigment Dusty Pink" }
+							],
+							"priceV2": { "amount": "75.0", "currencyCode": "USD" },
+							"compareAtPriceV2": null
+						}
+					},
+					{
+						"node": {
+							"id": "gid://shopify/ProductVariant/43284584169730",
+							"title": "s / Pigment Alpine Green",
+							"sku": "APQ-3779201S6A1",
+							"availableForSale": true,
+							"requiresShipping": true,
+							"selectedOptions": [
+								{ "name": "Size", "value": "s" },
+								{ "name": "Color", "value": "Pigment Alpine Green" }
+							],
+							"priceV2": { "amount": "75.0", "currencyCode": "USD" },
+							"compareAtPriceV2": null
+						}
+					},
+					{
+						"node": {
+							"id": "gid://shopify/ProductVariant/43284575977730",
+							"title": "m / Pigment Dusty Pink",
+							"sku": "APQ-3850272S7A1",
+							"availableForSale": true,
+							"requiresShipping": true,
+							"selectedOptions": [
+								{ "name": "Size", "value": "m" },
+								{ "name": "Color", "value": "Pigment Dusty Pink" }
+							],
+							"priceV2": { "amount": "75.0", "currencyCode": "USD" },
+							"compareAtPriceV2": null
+						}
+					},
+					{
+						"node": {
+							"id": "gid://shopify/ProductVariant/43284584202498",
+							"title": "m / Pigment Alpine Green",
+							"sku": "APQ-3779201S7A1",
+							"availableForSale": true,
+							"requiresShipping": true,
+							"selectedOptions": [
+								{ "name": "Size", "value": "m" },
+								{ "name": "Color", "value": "Pigment Alpine Green" }
+							],
+							"priceV2": { "amount": "75.0", "currencyCode": "USD" },
+							"compareAtPriceV2": null
+						}
+					},
+					{
+						"node": {
+							"id": "gid://shopify/ProductVariant/43284576010498",
+							"title": "l / Pigment Dusty Pink",
+							"sku": "APQ-3850272S8A1",
+							"availableForSale": true,
+							"requiresShipping": true,
+							"selectedOptions": [
+								{ "name": "Size", "value": "l" },
+								{ "name": "Color", "value": "Pigment Dusty Pink" }
+							],
+							"priceV2": { "amount": "75.0", "currencyCode": "USD" },
+							"compareAtPriceV2": null
+						}
+					},
+					{
+						"node": {
+							"id": "gid://shopify/ProductVariant/43284584235266",
+							"title": "l / Pigment Alpine Green",
+							"sku": "APQ-3779201S8A1",
+							"availableForSale": true,
+							"requiresShipping": true,
+							"selectedOptions": [
+								{ "name": "Size", "value": "l" },
+								{ "name": "Color", "value": "Pigment Alpine Green" }
+							],
+							"priceV2": { "amount": "75.0", "currencyCode": "USD" },
+							"compareAtPriceV2": null
+						}
+					},
+					{
+						"node": {
+							"id": "gid://shopify/ProductVariant/43284576043266",
+							"title": "xl / Pigment Dusty Pink",
+							"sku": "APQ-3850272S1A1",
+							"availableForSale": true,
+							"requiresShipping": true,
+							"selectedOptions": [
+								{ "name": "Size", "value": "xl" },
+								{ "name": "Color", "value": "Pigment Dusty Pink" }
+							],
+							"priceV2": { "amount": "75.0", "currencyCode": "USD" },
+							"compareAtPriceV2": null
+						}
+					},
+					{
+						"node": {
+							"id": "gid://shopify/ProductVariant/43284584268034",
+							"title": "xl / Pigment Alpine Green",
+							"sku": "APQ-3779201S1A1",
+							"availableForSale": true,
+							"requiresShipping": true,
+							"selectedOptions": [
+								{ "name": "Size", "value": "xl" },
+								{ "name": "Color", "value": "Pigment Alpine Green" }
+							],
+							"priceV2": { "amount": "75.0", "currencyCode": "USD" },
+							"compareAtPriceV2": null
+						}
+					},
+					{
+						"node": {
+							"id": "gid://shopify/ProductVariant/43284576076034",
+							"title": "xxl / Pigment Dusty Pink",
+							"sku": "APQ-3850272S2A1",
+							"availableForSale": true,
+							"requiresShipping": true,
+							"selectedOptions": [
+								{ "name": "Size", "value": "xxl" },
+								{ "name": "Color", "value": "Pigment Dusty Pink" }
+							],
+							"priceV2": { "amount": "77.0", "currencyCode": "USD" },
+							"compareAtPriceV2": null
+						}
+					},
+					{
+						"node": {
+							"id": "gid://shopify/ProductVariant/43284584300802",
+							"title": "xxl / Pigment Alpine Green",
+							"sku": "APQ-3779201S2A1",
+							"availableForSale": true,
+							"requiresShipping": true,
+							"selectedOptions": [
+								{ "name": "Size", "value": "xxl" },
+								{ "name": "Color", "value": "Pigment Alpine Green" }
+							],
+							"priceV2": { "amount": "77.0", "currencyCode": "USD" },
+							"compareAtPriceV2": null
+						}
+					}
+				]
+			},
+			"images": {
+				"pageInfo": { "hasNextPage": false, "hasPreviousPage": false },
+				"edges": [
+					{
+						"node": {
+							"originalSrc": "https://cdn.shopify.com/s/files/1/0664/7699/8914/products/limited002idgafhoodiedustypinkfront.jpg?v=1682149235",
+							"altText": null,
+							"width": 762,
+							"height": 1017
+						}
+					},
+					{
+						"node": {
+							"originalSrc": "https://cdn.shopify.com/s/files/1/0664/7699/8914/products/limited002idgafhoodiedustypinkcreativepose.jpg?v=1682149235",
+							"altText": null,
+							"width": 720,
+							"height": 1080
+						}
+					},
+					{
+						"node": {
+							"originalSrc": "https://cdn.shopify.com/s/files/1/0664/7699/8914/products/limited002idgafhoodiealphinegreenfront.J.jpg?v=1682149318",
+							"altText": null,
+							"width": 810,
+							"height": 1080
+						}
+					},
+					{
+						"node": {
+							"originalSrc": "https://cdn.shopify.com/s/files/1/0664/7699/8914/products/IMG_9985.jpg?v=1682153332",
+							"altText": null,
+							"width": 539,
+							"height": 719
+						}
+					},
+					{
+						"node": {
+							"originalSrc": "https://cdn.shopify.com/s/files/1/0664/7699/8914/products/IMG_9974.jpg?v=1682153358",
+							"altText": null,
+							"width": 539,
+							"height": 719
+						}
+					},
+					{
+						"node": {
+							"originalSrc": "https://cdn.shopify.com/s/files/1/0664/7699/8914/products/IMG_9979.jpg?v=1682153384",
+							"altText": null,
+							"width": 541,
+							"height": 719
+						}
+					},
+					{
+						"node": {
+							"originalSrc": "https://cdn.shopify.com/s/files/1/0664/7699/8914/products/IMG_0230.jpg?v=1682153443",
+							"altText": null,
+							"width": 810,
+							"height": 1080
+						}
+					},
+					{
+						"node": {
+							"originalSrc": "https://cdn.shopify.com/s/files/1/0664/7699/8914/products/IMG_0241.jpg?v=1682153443",
+							"altText": null,
+							"width": 810,
+							"height": 1080
+						}
+					},
+					{
+						"node": {
+							"originalSrc": "https://cdn.shopify.com/s/files/1/0664/7699/8914/products/IMG_0227.jpg?v=1682153443",
+							"altText": null,
+							"width": 1079,
+							"height": 1439
+						}
+					}
+				]
+			}
+		},
+		{
+			"id": "gid://shopify/Product/7829746614530",
+			"handle": "limited-006-badbad-premium-distressed-vintage-t-shirt",
+			"availableForSale": true,
+			"title": "limited-005 \"BADBAD\" premium distressed tee",
+			"description": "part of the \"LIMITED Collection\", \"BADBAD\" piece is for all the introverted, extroverted, quiet, loud baddies out there. this design is printed on a mineral/vintage washed tee. male model 6'2\" wearing XXL denim, female model 5'6\" wearing L black *10% of proceeds go to GROOVY Creative Fund to support rising creatives in the Chicagoland area. fit & sizing: -unisex-straight fit features: -4.3 oz, 100% ringspun combed cotton-preshrunk to minimize shrinkage-double-needle top stitch at sleeves, bottom hem, shoulders, and armhole-shoulder-to-shoulder tape-side seamed construction how to care: -wash inside out on delicate, cold temp-air dry-more you wash, less longevity of embroidery",
+			"descriptionHtml": "<p><span>part of the \"LIMITED Collection\", \"BADBAD\" piece is for all the introverted, extroverted, quiet, loud baddies out there. this design is printed on a mineral/vintage washed tee. <br></span></p>\n<p><em>male model 6'2\" wearing XXL denim, female model 5'6\" wearing L black </em></p>\n<p><span><em>*10% of proceeds go to GROOVY Creative Fund to support rising creatives in the Chicagoland area.</em></span></p>\n<p><strong>fit &amp; sizing:</strong></p>\n<p>-unisex<br>-straight fit<br><img src=\"https://cdn.shopify.com/s/files/1/0664/7699/8914/files/ScreenShot2022-11-28at8.40.18PM_480x480.png?v=1669689630\" alt=\"\" data-mce-fragment=\"1\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0664/7699/8914/files/ScreenShot2022-11-28at8.40.18PM_480x480.png?v=1669689630\"><br><br></p>\n<p><strong>features:</strong></p>\n<p>-4.3 oz, 100% ringspun combed cotton<br>-preshrunk to minimize shrinkage<br>-double-needle top stitch at sleeves, bottom hem, shoulders, and armhole<br>-shoulder-to-shoulder tape<br>-side seamed construction</p>\n<p><strong>how to care:</strong></p>\n<p>-wash inside out on delicate, cold temp<br>-air dry<br>-more you wash, less longevity of embroidery</p>",
+			"options": [
+				{
+					"id": "gid://shopify/ProductOption/9997161201922",
+					"name": "Size",
+					"values": ["xs", "s", "m", "l", "xl", "xxl"]
+				},
+				{
+					"id": "gid://shopify/ProductOption/9997161234690",
+					"name": "Color",
+					"values": ["Black", "denim"]
+				}
+			],
+			"priceRange": {
+				"maxVariantPrice": { "amount": "47.0", "currencyCode": "USD" },
+				"minVariantPrice": { "amount": "45.0", "currencyCode": "USD" }
+			},
+			"variants": {
+				"pageInfo": { "hasNextPage": false, "hasPreviousPage": false },
+				"edges": [
+					{
+						"node": {
+							"id": "gid://shopify/ProductVariant/43288001544450",
+							"title": "xs / Black",
+							"sku": "APQ-3850359S5A1",
+							"availableForSale": true,
+							"requiresShipping": true,
+							"selectedOptions": [
+								{ "name": "Size", "value": "xs" },
+								{ "name": "Color", "value": "Black" }
+							],
+							"priceV2": { "amount": "45.0", "currencyCode": "USD" },
+							"compareAtPriceV2": null
+						}
+					},
+					{
+						"node": {
+							"id": "gid://shopify/ProductVariant/43288003444994",
+							"title": "xs / denim",
+							"sku": "APQ-3780824S5A1",
+							"availableForSale": true,
+							"requiresShipping": true,
+							"selectedOptions": [
+								{ "name": "Size", "value": "xs" },
+								{ "name": "Color", "value": "denim" }
+							],
+							"priceV2": { "amount": "45.0", "currencyCode": "USD" },
+							"compareAtPriceV2": null
+						}
+					},
+					{
+						"node": {
+							"id": "gid://shopify/ProductVariant/43288001577218",
+							"title": "s / Black",
+							"sku": "APQ-3850359S6A1",
+							"availableForSale": true,
+							"requiresShipping": true,
+							"selectedOptions": [
+								{ "name": "Size", "value": "s" },
+								{ "name": "Color", "value": "Black" }
+							],
+							"priceV2": { "amount": "45.0", "currencyCode": "USD" },
+							"compareAtPriceV2": null
+						}
+					},
+					{
+						"node": {
+							"id": "gid://shopify/ProductVariant/43288003477762",
+							"title": "s / denim",
+							"sku": "APQ-3780824S6A1",
+							"availableForSale": true,
+							"requiresShipping": true,
+							"selectedOptions": [
+								{ "name": "Size", "value": "s" },
+								{ "name": "Color", "value": "denim" }
+							],
+							"priceV2": { "amount": "45.0", "currencyCode": "USD" },
+							"compareAtPriceV2": null
+						}
+					},
+					{
+						"node": {
+							"id": "gid://shopify/ProductVariant/43288001609986",
+							"title": "m / Black",
+							"sku": "APQ-3850359S7A1",
+							"availableForSale": true,
+							"requiresShipping": true,
+							"selectedOptions": [
+								{ "name": "Size", "value": "m" },
+								{ "name": "Color", "value": "Black" }
+							],
+							"priceV2": { "amount": "45.0", "currencyCode": "USD" },
+							"compareAtPriceV2": null
+						}
+					},
+					{
+						"node": {
+							"id": "gid://shopify/ProductVariant/43288003510530",
+							"title": "m / denim",
+							"sku": "APQ-3780824S7A1",
+							"availableForSale": true,
+							"requiresShipping": true,
+							"selectedOptions": [
+								{ "name": "Size", "value": "m" },
+								{ "name": "Color", "value": "denim" }
+							],
+							"priceV2": { "amount": "45.0", "currencyCode": "USD" },
+							"compareAtPriceV2": null
+						}
+					},
+					{
+						"node": {
+							"id": "gid://shopify/ProductVariant/43288001642754",
+							"title": "l / Black",
+							"sku": "APQ-3850359S8A1",
+							"availableForSale": true,
+							"requiresShipping": true,
+							"selectedOptions": [
+								{ "name": "Size", "value": "l" },
+								{ "name": "Color", "value": "Black" }
+							],
+							"priceV2": { "amount": "45.0", "currencyCode": "USD" },
+							"compareAtPriceV2": null
+						}
+					},
+					{
+						"node": {
+							"id": "gid://shopify/ProductVariant/43288003543298",
+							"title": "l / denim",
+							"sku": "APQ-3780824S8A1",
+							"availableForSale": true,
+							"requiresShipping": true,
+							"selectedOptions": [
+								{ "name": "Size", "value": "l" },
+								{ "name": "Color", "value": "denim" }
+							],
+							"priceV2": { "amount": "45.0", "currencyCode": "USD" },
+							"compareAtPriceV2": null
+						}
+					},
+					{
+						"node": {
+							"id": "gid://shopify/ProductVariant/43288001675522",
+							"title": "xl / Black",
+							"sku": "APQ-3850359S1A1",
+							"availableForSale": true,
+							"requiresShipping": true,
+							"selectedOptions": [
+								{ "name": "Size", "value": "xl" },
+								{ "name": "Color", "value": "Black" }
+							],
+							"priceV2": { "amount": "45.0", "currencyCode": "USD" },
+							"compareAtPriceV2": null
+						}
+					},
+					{
+						"node": {
+							"id": "gid://shopify/ProductVariant/43288003576066",
+							"title": "xl / denim",
+							"sku": "APQ-3780824S1A1",
+							"availableForSale": true,
+							"requiresShipping": true,
+							"selectedOptions": [
+								{ "name": "Size", "value": "xl" },
+								{ "name": "Color", "value": "denim" }
+							],
+							"priceV2": { "amount": "45.0", "currencyCode": "USD" },
+							"compareAtPriceV2": null
+						}
+					},
+					{
+						"node": {
+							"id": "gid://shopify/ProductVariant/43288001708290",
+							"title": "xxl / Black",
+							"sku": "APQ-3850359S2A1",
+							"availableForSale": true,
+							"requiresShipping": true,
+							"selectedOptions": [
+								{ "name": "Size", "value": "xxl" },
+								{ "name": "Color", "value": "Black" }
+							],
+							"priceV2": { "amount": "47.0", "currencyCode": "USD" },
+							"compareAtPriceV2": null
+						}
+					},
+					{
+						"node": {
+							"id": "gid://shopify/ProductVariant/43288003608834",
+							"title": "xxl / denim",
+							"sku": "APQ-3780824S2A1",
+							"availableForSale": true,
+							"requiresShipping": true,
+							"selectedOptions": [
+								{ "name": "Size", "value": "xxl" },
+								{ "name": "Color", "value": "denim" }
+							],
+							"priceV2": { "amount": "47.0", "currencyCode": "USD" },
+							"compareAtPriceV2": null
+						}
+					}
+				]
+			},
+			"images": {
+				"pageInfo": { "hasNextPage": false, "hasPreviousPage": false },
+				"edges": [
+					{
+						"node": {
+							"originalSrc": "https://cdn.shopify.com/s/files/1/0664/7699/8914/products/LIMITED006BADBadteedenim0.1.jpg?v=1682148839",
+							"altText": null,
+							"width": 810,
+							"height": 1080
+						}
+					},
+					{
+						"node": {
+							"originalSrc": "https://cdn.shopify.com/s/files/1/0664/7699/8914/products/LIMITED006BADBadteedenim0.2.jpg?v=1682148839",
+							"altText": null,
+							"width": 810,
+							"height": 1080
+						}
+					},
+					{
+						"node": {
+							"originalSrc": "https://cdn.shopify.com/s/files/1/0664/7699/8914/products/LIMITED006BADBadteeblackfrontt.jpg?v=1682148839",
+							"altText": null,
+							"width": 810,
+							"height": 1080
+						}
+					},
+					{
+						"node": {
+							"originalSrc": "https://cdn.shopify.com/s/files/1/0664/7699/8914/products/IMG_0020.jpg?v=1682153480",
+							"altText": null,
+							"width": 607,
+							"height": 810
+						}
+					},
+					{
+						"node": {
+							"originalSrc": "https://cdn.shopify.com/s/files/1/0664/7699/8914/products/IMG_0034.jpg?v=1682153494",
+							"altText": null,
+							"width": 607,
+							"height": 810
+						}
+					},
+					{
+						"node": {
+							"originalSrc": "https://cdn.shopify.com/s/files/1/0664/7699/8914/products/IMG_0122.jpg?v=1682153524",
+							"altText": null,
+							"width": 810,
+							"height": 1080
+						}
+					},
+					{
+						"node": {
+							"originalSrc": "https://cdn.shopify.com/s/files/1/0664/7699/8914/products/IMG_0110.jpg?v=1682153545",
+							"altText": null,
+							"width": 540,
+							"height": 719
+						}
+					}
+				]
+			}
+		}
+	]
+}

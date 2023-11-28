@@ -1,2 +1,13 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script lang="ts">
+	import ProductPreview from '../components/productPreview.svelte';
+
+	export let data;
+
+	const productList = data.products;
+</script>
+
+<!-- <p>{productList}</p> -->
+
+{#each productList as product}
+	<ProductPreview {product} />
+{/each}
